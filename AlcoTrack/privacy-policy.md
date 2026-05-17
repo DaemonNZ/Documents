@@ -2,7 +2,7 @@
 
 **Last updated:** 17 May 2026  
 **Developer:** Dion Campbell  
-**Contact:** dion.campbell@me.com
+**Contact:** alcotrack.support@gmail.com
 
 ---
 
@@ -84,4 +84,4 @@ If this policy changes materially, the updated version will be published at the 
 Questions or requests regarding your data:
 
 **Dion Campbell**  
-dion.campbell@me.com
+alcotrack.support@gmail.com
